@@ -1,0 +1,11 @@
+Aufgabe 
+
+MenschKisteFlaschen
+
+Ein Mensch hat eine Kiste mit Flaschen
+
+Plane Klassendiagramm
+Welche Operationen sind nötig?
+Implementiere Klassen...
+
+https://www.umlet.com
